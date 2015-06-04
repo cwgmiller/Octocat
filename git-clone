@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git Clone is a function that allows the user to copy a repository of another user and save it as a local repository. It is partucularly useful when completing group work as it allows developer teams to transfer files via github.
