@@ -1,1 +1,1 @@
-explain what a branch is, in your own words
+Git branch allows the user to create and work in different lines of development. ItIts most useful function allows the user to create a seperate path from the main code to work on feautures,s, fix bugs, etc., without interupting the maister line of code. By creating a fork in the work, which can be merged when complete, the user hessentially creates a new directory with staging and history for  a specific part of the project they are working on.
